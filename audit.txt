@@ -1,0 +1,2 @@
+2022-09-19T22:41:13.780444700 : Item Doritos vended.Number in Inventory: 0
+2022-09-19T22:54:45.625416900 : Item Oreo vended.Number in Inventory: 4

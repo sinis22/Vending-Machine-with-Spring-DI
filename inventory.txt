@@ -1,0 +1,6 @@
+Swiss roll,3.00,5,
+Oreo,0.50,4,
+Fanta,1.50,2,
+Coca Cola,2.30,7,
+Popcorn,0.75,4,
+Doritos,3.45,0,
